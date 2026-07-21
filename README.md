@@ -1,91 +1,80 @@
-<!-- README.md -->
+<!-- ========================================================
+  🚀 GitHub Profile README — Multi-platform & Backend Developer
+  Copia este archivo en tu repositorio [tu-usuario]/[tu-usuario]!
+  Reemplaza los valores entre corchetes o "tu-usuario" por tus datos.
+  ======================================================== -->
 
-<!-- Banner superior: reemplaza la URL por la de tu banner -->
+# ¡Hola, soy [Tu Nombre]! 📱💻
+
 <p align="center">
-  <img
-    src="https://media.licdn.com/dms/image/v2/D4E16AQGeW__yuORX-A/profile-displaybackgroundimage-shrink_200_800/B4EZUo3PzIH0AU-/0/1740147326921?e=2147483647&v=beta&t=hj-9o_9Nk2e2F4XrIkfKVV5TGpFXyQbqriYSTuDsA7Q"
-    alt="Banner de Enrique Becerra"
-    width="800"
-  />
-</p>
-
-
-<h1 align="center">👋 Hola, soy Enrique Rafael Becerra Bocangel</h1>
-<p align="center">
-  (aka <strong>Mod</strong>, <strong>ModLovelace</strong>, <strong>dev_en_proceso</strong>)<br/>
-  <strong>Dev Móvil Middle</strong><br/>
-  📍 Lima, Perú · 🕒 UTC‑5
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Multi-platform:+Mobile,+Web+%26+Desktop;Backend+con+Dart+%26+Docker;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@dev_en_proceso-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Enrique%20Becerra-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://tu-portafolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario-de-github&color=10b981&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views" />
 </p>
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🧑‍💻 Sobre Mí
+
+- 🔭 Especialista en desarrollo multiplataforma con **Flutter y Dart**, compilando para **Web, Linux, Windows, Android e iOS**.
+- ⚙️ Construyo arquitecturas sólidas de **Back-End usando Dart y Docker**, integrando bases de datos como **SQL Server y PostgreSQL**.
+- 📱 Experiencia en desarrollo nativo con **Kotlin (Android)** y **Swift (iOS)** para complementar y optimizar soluciones móviles.
+- 🤝 Contribuidor activo en proyectos **Open Source**.
+- 📫 Contáctame en: **tu-correo@email.com**
+
+---
+
+## 🧰 Stack Tecnológico
+
+### Multiplataforma y Nativo
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
+### Back-End, Bases de Datos & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 🌍 Contribuciones Open Source
+
+### [Catjang-Sue](https://github.com/Mod-zZz/catjang-sue)
+Colaborador activo en este repositorio de código abierto.
+- **Rol:** [Describe brevemente qué aportaste, ej. Optimización de código, resolución de issues, nuevas features].
+- **Enlace:** [Ver Repositorio](https://github.com/Mod-zZz/catjang-sue)
+
+---
+
+## 📱 Proyectos Destacados
+
+### [Nombre de tu Proyecto Full-Stack]
+Aplicación multiplataforma y su respectivo servidor.
+- **Tecnologías:** Flutter (Front-end), Dart & Docker (Back-end), PostgreSQL.
+- **Links:** [App Store](https://example.com) • [Google Play](https://example.com) • [GitHub Repo](https://github.com/tu-usuario/repo)
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?logo=appstore&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/XML-6E6E6E?logo=xml&logoColor=white" alt="XML"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Notifications-3DDC84?logo=googlemessages&logoColor=white" alt="Notifications"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-## 🚀 Proyectos Destacados
-
-<!-- Sustituye estos ejemplos por tus proyectos reales -->
-### [Proyecto Uno](https://github.com/Mod-zZz/proyecto-uno)
-_App móvil en Flutter que hace tal y tal cosa._  
-<p>
-  <img src="https://your-cdn.com/proyecto-uno-1.png" width="200"/>
-  <img src="https://your-cdn.com/proyecto-uno-2.png" width="200"/>
-</p>
-
-### [Proyecto Dos](https://github.com/Mod-zZz/proyecto-dos)
-_App híbrida para gestión de datos con Firebase y Node.js._  
-<p>
-  <img src="https://your-cdn.com/proyecto-dos-1.png" width="200"/>
-  <img src="https://your-cdn.com/proyecto-dos-2.png" width="200"/>
-</p>
-
-
----
-
-
-## 📫 ¡Hablemos!
-
 <p align="center">
-  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-@dev_en_proceso-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Enrique%20Becerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-de-github&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
----
-
